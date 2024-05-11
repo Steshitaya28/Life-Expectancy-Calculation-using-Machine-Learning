@@ -1,1 +1,2 @@
 # Life-Expectancy-Calculation-using-Machine-Learning
+In this project, I trained train the ML models using the dataset provided by WHO and GHO. I used four machine learning models including Linear Regression, Multiple Linear Regression,Polynomial Regression and Multiple Polynomial Regression Model.Through this exploration, I aimed to demonstrate the potential of machine learning in improving our understanding of longevity and its implications across various domains.
